@@ -1,0 +1,1 @@
+Tests are simple plain text files with given input and expected given output to compare. The expected run flag is -t, to print out the EFSM.
