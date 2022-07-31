@@ -1,4 +1,4 @@
-First projekt in Cryptography subject, the goal of project is to break Vigenere cipher with Kasiski and Friedman test and our custom heuristic to determine the key lenght.
+First project in Cryptography subject, the goal of project is to break Vigenere cipher with Kasiski and Friedman test and our custom heuristic to determine the key lenght.
 
 Documentation is in Slovak language.
 
