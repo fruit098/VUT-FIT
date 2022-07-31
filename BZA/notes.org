@@ -1,0 +1,13 @@
+#+TITLE: Notes
+* 1. Intro
+
+** BH - bezpecny hw
+- vlastna ochrana
+- nemozne obist
+** Realizace HW
+- sinle-chip module
+- multi-chip embedded module
+- multi-chip standalone module
+** Pokrocilejsie utoky
+- microihly
+- FIB (focused ion beam)

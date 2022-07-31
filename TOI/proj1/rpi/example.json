@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "name": "esp1",
+      "temperature": 1.2,
+      "brightness": 1.2
+    },
+    {
+      "name": "esp1",
+      "temperature": 1.2,
+      "brightness": 1.2
+    }
+  ]
+}

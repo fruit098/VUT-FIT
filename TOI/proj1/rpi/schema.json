@@ -1,0 +1,48 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://example.com/object1649597503.json",
+  "title": "Root",
+  "type": "array",
+  "default": [],
+  "items": {
+    "$id": "#root/items",
+    "title": "Items",
+    "type": "object",
+    "required": [
+      "name",
+      "temperature",
+      "brightness"
+    ],
+    "properties": {
+      "name": {
+        "$id": "#root/items/name",
+        "title": "Name",
+        "type": "string",
+        "default": "",
+        "examples": [
+          "esp1"
+        ],
+        "pattern": "^.*$"
+      },
+      "temperature": {
+        "$id": "#root/items/temperature",
+        "title": "Temperature",
+        "type": "number",
+        "examples": [
+          1.2
+        ],
+        "default": 0
+      },
+      "brightness": {
+        "$id": "#root/items/brightness",
+        "title": "Brightness",
+        "type": "number",
+        "examples": [
+          1.2
+        ],
+        "default": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+*.zip
+AVS/*
+venv/*
+*/venv/*
+venv/
